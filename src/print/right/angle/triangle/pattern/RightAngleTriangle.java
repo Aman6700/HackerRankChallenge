@@ -24,6 +24,7 @@ public class RightAngleTriangle {
     private static void printTriangle(int n) {
         for (int i = 1; i <= n; i++) {
 
+
             for (int k = 1; k <= n - i; k++) {
                 System.out.print(" ");
             }
