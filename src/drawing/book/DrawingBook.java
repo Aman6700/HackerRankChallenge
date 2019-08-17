@@ -8,11 +8,11 @@ import java.util.Scanner;
 public class DrawingBook {
     static int pageCount(int n, int p) {
 
+        //TODO Need to complete
         int startIndex = 0, lastIndex = 0;
         if (p < n / 2) {
             //take from start
             for (int i = 2; i < p; i = i + 2) {
-
 
 
             }
